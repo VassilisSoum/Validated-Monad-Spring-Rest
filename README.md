@@ -75,5 +75,3 @@ mvn spring-boot:run
 
 This will start the Spring Boot application on port `9999`. You can then send a `POST` request to
 `http://localhost:9999/api/person` with a JSON payload containing some person identification.
-
-See the httpRequests/http-requests-log.http file for sample requests.
